@@ -24,7 +24,7 @@ As a data enthusiast and BI analyst, I built this dashboard to transform raw IPL
 
 ## 🖼️ Dashboard Preview
 
-![IPL Dashboard](./c3296516-f2e1-41e9-a010-28c257beeb1a.png)
+![IPL Dashboard]([./c3296516-f2e1-41e9-a010-28c257beeb1a.png](https://github.com/vijayendravarma111/IPL-Analysis-Dashboard/blob/9fa59dcce7c38909e179a1e3ab351aee7ca5dbd0/IPL_Dashboard_Powerbi.png))
 
 ---
 
