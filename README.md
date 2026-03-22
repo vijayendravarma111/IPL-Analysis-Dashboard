@@ -52,9 +52,3 @@ As a data enthusiast and BI analyst, I built this dashboard to transform raw IPL
 - Performance comparison tool for IPL teams & players
 
 ---
-
-## License
-
-This project is for educational and personal use. All IPL data credits go to official sources.
-
----
