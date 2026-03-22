@@ -108,7 +108,7 @@ IPL-Analysis-Dashboard/
 
 ---
 
-## ⭐ Feedback
+##  Feedback
 
 If you have any suggestions or ideas to improve this project, feel free to share.  
 And if you found this useful, consider giving it a star ⭐
