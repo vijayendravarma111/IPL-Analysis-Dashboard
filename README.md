@@ -72,10 +72,20 @@ The idea behind this project was simple — take a large, real-world dataset and
 ```
 
 IPL-Analysis-Dashboard/
-│-- IPL_Analysis.pbix
-│-- ipl_dataset.csv
-│-- Screenshot/
-│-- README.md
+│
+├──  Dashboard/
+│ ├── IPL_ANALYSIS.pbix
+│ └── report/ # Power BI report exports (if any)
+│
+├──  Data/
+│ ├── ipl_ball_by_ball_2008_2022.csv
+│ └── ipl_matches_2008_2022.csv
+│
+├──  Screenshot/
+│ ├── IPL_Dashboard_PowerBI.png
+│ └── report/ # Additional screenshots or visuals
+│
+├── README.md
 
 
 ```
